@@ -1,6 +1,14 @@
 # flask_example
 Basic Flask app to help for beginners
 
+Install
+
+$ pip3 install flask
+
+Run
+
+$ python3 app.py
+
 Helping sites
 
 For Flask : 
