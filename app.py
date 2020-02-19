@@ -17,7 +17,7 @@ def bare():
 
     return "Hello Flask"
 
-@app.route('getandpost',methods = ['GET', 'POST'])
+@app.route('/getandpost',methods = ['GET', 'POST'])
 def validate_app():
 
     if request.method == "POST":
